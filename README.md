@@ -50,4 +50,4 @@ https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2
 https://learn.microsoft.com/en-us/azure/container-apps/overview
 
 ### install visual studio code
-https://code.visualstudio.com/download#
+[https://code.visualstudio.com/download#](https://code.visualstudio.com/Download)https://code.visualstudio.com/Download
