@@ -1,23 +1,23 @@
-# ambiente-wsl2-docker-win11pro-EXECUTANDO
+# Ambiente-wsl2-docker-win11pro-EXECUTANDO
 
-# criar maquina virtual win 11 pro
+### criar maquina virtual win 11 pro
 
-# logar na maquina
+### logar na maquina
 
-# executar power shell como administrador
+### executar power shell como administrador
 
-# wsl – -install
+### wsl – -install
 
-# pesquisar loja
+### pesquisar loja
 
-# baixar ubuntu-22.04
+### baixar ubuntu-22.04
 
-# baixar Windows Terminal
+### baixar Windows Terminal
 
-# instalar cli power shell
+### instalar cli power shell
 - https://aka.ms/installazurecliwindowsx64
 
-# habilitar tabulação no poswer shell
+### habilitar tabulação no poswer shell
 
 Register-ArgumentCompleter -Native -CommandName az -ScriptBlock {
     param($commandName, $wordToComplete, $cursorPosition)
