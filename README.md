@@ -1,0 +1,1 @@
+# ambiente-wsl2-docker-win11pro-EXECUTANDO
