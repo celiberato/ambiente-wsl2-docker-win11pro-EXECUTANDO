@@ -45,3 +45,7 @@ https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_s
 
 ### install git
 https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
+
+### install primeirta container app
+https://learn.microsoft.com/en-us/azure/container-apps/overview
+###
