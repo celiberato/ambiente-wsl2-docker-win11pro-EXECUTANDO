@@ -49,5 +49,5 @@ https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2
 ### install primeirta container app
 https://learn.microsoft.com/en-us/azure/container-apps/overview
 
-### install visual studio code
-[https://code.visualstudio.com/download#](https://code.visualstudio.com/Download)https://code.visualstudio.com/Download
+### install visual st
+https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user
