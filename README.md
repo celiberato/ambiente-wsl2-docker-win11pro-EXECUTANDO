@@ -43,4 +43,5 @@ Register-ArgumentCompleter -Native -CommandName az -ScriptBlock {
 ### install docker desktop win 11 pro
 https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*bbgtto*_ga*MTA2MzkwMTEyLjE2OTE3NTMyNTE.*_ga_XJWPQMJYHQ*MTY5MTc1MzI1MC4xLjEuMTY5MTc1MzI1MS41OS4wLjA.
 
-
+### install git
+https://github.com/git-for-windows/git/releases/download/v2.41.0.windows.3/Git-2.41.0.3-64-bit.exe
